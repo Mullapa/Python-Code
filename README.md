@@ -1,7 +1,7 @@
 
 As an analyst for Instacart, an online grocery store app, my goal is to dig deeper into our sales data to understand patterns better. Even though Instacart is doing well, we believe there's more to learn. My task is to analyze the data we have and come up with insights that will help us segment our customers more effectively and suggest strategies to improve sales even further.
 
-# Introduction:
+# Introduction
 Instacart wants to understand its customers better to improve how they sell groceries. They know that not everyone shops the same way, so they're thinking about using different marketing strategies for different types of customers. Your job is to analyze the data and help figure out which strategies might work best for different groups of customers.
 
 
